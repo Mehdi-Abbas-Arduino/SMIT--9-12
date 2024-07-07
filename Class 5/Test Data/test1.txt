@@ -1,0 +1,17 @@
+Github 
+
+- Code storage space 
+- Teamwork
+
+1. Local Configuration SETUP
+(Search web credentials then into windows credentials)
+(Make sure Git bash is installed)
+(Choose any directory where you want to create repo)
+(Make sure after init SETUP user name amd user email)
+(To validate above configuration)
+2. GIT initialization and connectivity
+
+3. Branching (main branch --> Master )
+4. Conflict resolving 
+when remote is ahead of local branch
+git pull
